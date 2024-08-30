@@ -5,6 +5,7 @@ const XLSX = require('xlsx')
 // Cria um novo workbook
 const workbook = XLSX.utils.book_new();
 
+
 /*
 // Create the connection pool. The pool-specific settings are the defaults
 const pool = mysql.createPool({
